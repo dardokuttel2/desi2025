@@ -11,7 +11,7 @@ import tuti.desi.entidades.Producto;
 /**
  * Objeto necesario para insertar o eliminar una persona. 
  * Nótese que en lugar de referenciar al objeto Ciudad, reemplaza ese atributo por el idCiudad, lo cual resulta mas sencillo de representar en JSON
- *
+ * cambio
  */
 public class ProductoForm {
 
